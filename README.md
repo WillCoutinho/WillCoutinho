@@ -5,7 +5,7 @@
 🌱 Learning *NodeJS* and *Typescript*  
 🔭 I’m self-motivated and I’m always looking for learn new skills, best practices and techs as well  
 🏢 Currently I'm working in two differents projects (from main office and subsidiary) and their test automation setup are: Python + Behave (back-end), Python + Appium (mobile), Playwright + Typescript (web) and Jest + Typescript (back-end)  
-☕️ I’m a coffee lover  
+☕️ AND I’m a coffee lover  
 
 ## 👨‍💻 Techs, Tools and Frameworks I use daily at work
 
@@ -44,8 +44,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ----
-#### Please feel free to take a look at my personal repos as well
+### Please feel free to take a look at my personal repos 🤙
 
 [![littlecout0](https://github-readme-stats.vercel.app/api/top-langs/?username=littlecout0&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+<br>
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-coutinho/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will_coutinhoo/)
