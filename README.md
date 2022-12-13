@@ -4,8 +4,8 @@
 💼 I’m currently working as a Senior Software Quality Analyst at [Letsbank](https://www.letsbank.com.br/)  
 🌱 Learning *NodeJS* and *Typescript*  
 🔭 I’m self-motivated and I’m always looking for learn new skills, best practices and techs as well  
-🏢 Currently I'm working in two differents projects (from main office and subsidiary) and their test automation setup are: Python + Behave (back-end), Python + Appium (mobile), Playwright + Typescript (web) and Jest + Typescript (back-end)  
-☕️ AND I’m a coffee lover  
+🏢 Currently I'm working in two differents projects (from main office and subsidiary) with those test automation frameworks: Python + Behave (back-end), Python + Appium (mobile), Playwright + Typescript (web - I've implanted from scratch) and Jest + Typescript (back-end - which I am also implementing (WIP))
+☕️ AND I’m a coffee-lover  
 
 ## 👨‍💻 Techs, Tools and Frameworks I use daily at work
 
@@ -21,26 +21,33 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=android&logoColor=3DDC84)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=3DDC84)
 
-#### ☁️ *AWS Services*  
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-232F3E?style=flat-square&logo=aws-lambda&logoColor=FF9900)
-![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-s3&logoColor=569A31)
-![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=flat-square&logo=amazon-cloudwatch&logoColor=FF4F8B)
-![AWS ECS](https://img.shields.io/badge/AWS_ECS-232F3E?style=flat-square&logo=amazon-ecs&logoColor=FF9900)
-![AWS SQS](https://img.shields.io/badge/AWS_SQS-232F3E?style=flat-square&logo=amazon-sqs&logoColor=FF9900)
 
-#### 🎲	Database (SQL and No-SQL)  
+#### ☁️ *AWS*  
+![Lambda](https://img.shields.io/badge/Lambda-232F3E?style=flat-square&logo=aws-lambda&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazon-s3&logoColor=569A31)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=flat-square&logo=amazon-cloudwatch&logoColor=FF4F8B)
+![ECS](https://img.shields.io/badge/ECS-232F3E?style=flat-square&logo=amazon-ecs&logoColor=FF9900)
+![SQS](https://img.shields.io/badge/SQS-232F3E?style=flat-square&logo=amazon-sqs&logoColor=FF9900)
+![API Gateway](https://img.shields.io/badge/API_Gateway-232F3E?style=flat-square&logo=amazon-api-gateway&logoColor=FF4F8B)
+
+
+#### 🎲	*Database (SQL and No-SQL)*  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Elastic_Search](https://img.shields.io/badge/Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 
 
-#### 🛠️ Others Tools  
+#### 🛠️ *Others Tools*
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)
+![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Blazemeter](https://img.shields.io/badge/Blazemeter-CA2133?style=flat-square&logo=blazemeter&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ----
