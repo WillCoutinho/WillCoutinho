@@ -2,7 +2,7 @@
 
 
 💼 I’m currently working as a Senior Software Quality Analyst at [Letsbank](https://www.letsbank.com.br/)  
-🌱 Learning *NodeJS* and *Typescript*  
+🌱 Learning *Java*
 🔭 I’m self-motivated and I’m always looking for learn new skills, best practices and techs as well  
 🏢 Currently I'm working in two differents projects (from main office and subsidiary) with those test automation frameworks: Python + Behave (back-end), Python + Appium (mobile), Playwright + Typescript (web - I've implanted from scratch) and Jest + Typescript (back-end - which I am also implementing (WIP))  
 ☕️ AND I’m a coffee-lover  
