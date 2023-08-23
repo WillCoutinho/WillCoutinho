@@ -51,9 +51,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ----
-### Please feel free to take a look at my personal repos 🤙
+### Please feel free to take a look at my personal repos
 
-[![littlecout0](https://github-readme-stats.vercel.app/api/top-langs/?username=littlecout0&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![WillCoutinho](https://github-readme-stats.vercel.app/api/top-langs/?username=WillCoutinho&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 <br>
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-coutinho/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will_coutinhoo/)
