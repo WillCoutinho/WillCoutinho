@@ -4,7 +4,7 @@
 💼 I’m currently working as a Senior Software Quality Engineer at [RD Group](https://rd.com.br/)  
 🌱 Learning *Java* with *Spring Boot* framework  
 🔭 I’m self-motivated and I’m always looking for learn new skills, best practices and techs as well  
-🏢 Currently I'm working with Performance tests (Locust/JMeter) and tests automation on Web (Capybara+Ruby/Cypress), App (Appium+Ruby) and Back-end (Cucumber+Ruby)
+🏢 Currently I'm working with Performance tests (Locust/JMeter) and tests automation on Web (Capybara+Ruby/Cypress), App (Appium+Ruby) and Back-end (Cucumber+Ruby)  
 ☕️ AND I’m a coffee-lover  
 
 ## 👨‍💻 Techs, Tools and Frameworks
