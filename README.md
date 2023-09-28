@@ -1,10 +1,10 @@
 ## Hi there! I'm William Coutinho (aka _Coutinho_)
 
 
-💼 I’m currently working as a Senior Software Quality Analyst at [Letsbank](https://www.letsbank.com.br/)  
+💼 I’m currently working as a Senior Software Quality Engineer at [RD Group](https://rd.com.br/)  
 🌱 Learning *Java* with *Spring Boot* framework  
 🔭 I’m self-motivated and I’m always looking for learn new skills, best practices and techs as well  
-🏢 Currently I'm working in two differents projects (from main office and subsidiary) with those test automation frameworks: Python + Behave (back-end), Python + Appium (mobile), Playwright + Typescript (web - I've implanted from scratch) and Jest + Typescript (back-end - which I am also implementing (WIP))  
+🏢 Currently I'm working with Performance tests (Locust/JMeter) and tests automation on Web (Capybara+Ruby/Cypress), App (Appium+Ruby) and Back-end (Cucumber+Ruby)
 ☕️ AND I’m a coffee-lover  
 
 ## 👨‍💻 Techs, Tools and Frameworks
